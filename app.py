@@ -812,9 +812,6 @@ if predict_button:
 
             "DTI_Ratio_sq":
                 dti_ratio ** 2,
-
-            "Applicant_Income_log":
-                np.log1p(app_income)
         }
 
 
