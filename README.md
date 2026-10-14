@@ -8,7 +8,7 @@ The main objective is to perform data preprocessing, explore applicant data, com
 
 ## 🚀 Live Demo
 
-🔗 **[Try the Loan Approval Prediction App]([YOUR-STREAMLIT-APP-URL](https://loan-approval-predictor-143.streamlit.app/))**
+🔗 **https://loan-approval-predictor-143.streamlit.app/**
 
 ## 🎯 Objectives
 
